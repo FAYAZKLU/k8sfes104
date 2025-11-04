@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://13.233.215.58:30083/back1/auth";
+const API_URL = "http://15.206.89.11/back1/auth";
 
 
 export const login = async (username, password) => {
