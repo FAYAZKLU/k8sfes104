@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "http://15.206.89.11:30083/back1/api/products";
+const API_BASE_URL = "http://localhost:30083/back1/api/products";
   // Updated Backend API URL
 
 // Fetch products by category (computers, mobiles, laptops, pendrives, or all)
